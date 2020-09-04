@@ -1,0 +1,2 @@
+# WhenHarryMetSally
+This program explores the use of basic conditional execution, nested iteration, and memory accesses to analyze time/space data such as information collected by GPS-enabled applications In particular, this program will analyzes two timelines, each of which gives a history of major cities in which a person has lived in chronological order. This program will determine the earliest year in which both people lived in the same city.
